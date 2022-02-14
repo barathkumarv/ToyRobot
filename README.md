@@ -1,4 +1,5 @@
-Solution Requirements
+#Solution Requirements
+
 The library allows for a simulation of a toy robot moving on a 6 x 6 square tabletop.
 There are no obstructions on the table surface.
 The robot is free to roam around the surface of the table, but must be prevented from falling to destruction. Any movement that would result in this must be prevented, however further valid movement commands must still be allowed.
