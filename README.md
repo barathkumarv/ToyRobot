@@ -13,6 +13,8 @@ LEFT and RIGHT will rotate the robot 90 degrees in the specified direction witho
 REPORT will announce the X,Y and orientation of the robot.
 A robot that is not on the table can choose to ignore the MOVE, LEFT, RIGHT and REPORT commands.
 
-Installing and Running The application is a console application which can be run using an exe.
+#Installing and Running The application 
+
+The application is a console application which can be run using the exe.
 Extract publish zip folder and double click ToyRobot.exe to run the executable directly. 
 Alternatively download solution as zip and extract the files.Open visual studio as administrator, open the ToyRobot.Sln, build and run.
